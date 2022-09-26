@@ -1,0 +1,38 @@
+
+.container{
+	text-align: center;
+	margin: 20px 40px 100px 20px
+}
+h1{
+	text-align: center;
+	text-transform: initial;
+	font-size: 4em
+}
+.middle{
+	text-align: center;
+	border-top: 5px solid rgba(220,220,220);
+	border-bottom: 5px solid rgba(220,220,220);
+}
+article{
+	display: inline-block;
+	width: 300px;
+	padding: 10px;
+	margin-right: 29px;
+	text-align: center;
+}
+footer{
+	text-align: center;
+	margin-top: 100px;
+}
+footer h2{
+	display: inline-block;
+	width: 200px;
+	font-wight: normal
+}
+footer h3{
+	display: inline-block;
+	text-align: center;
+	color: lightgray;
+	font-weight: normal;
+	width: 495px;
+}
